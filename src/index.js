@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+// export {default as SearchBar} from './SearchBar'
+// export {default as VideoDetail} from './VideoDetail'
 ReactDOM.render(
   <React.StrictMode>
     <App />
